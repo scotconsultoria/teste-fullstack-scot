@@ -1,20 +1,19 @@
 # Teste para candidatos à vaga de desenvolvedor Full-stack
 
 ### Instruções
-Desenvolver um processo de autenticação completo, contendo criação de usuários e autenticação do usuário criado no banco de dados.
+Você precisa desenvolver um processo de autenticação completo, que inclui a criação de usuários e a autenticação dos usuários criados no banco de dados. Para fazer isso, siga estas etapas:
 
-1. Crie uma tela de login com validador de email e senha de no mínimo 8 caracteres contendo letra maiúscula e minúsculas, caracteres especiais e números.
-2. Criar uma tela principal, no estilo de portal de notícia, ela deve conter: Menu horizontal, rodapé, no mínimo 1 imagem, 1 vídeo e informar o email passado na tela de login.
-3. Nós queremos avaliar o seu nível de conhecimento em design responsivo (Responsive Web Design) usando HTML5 e CSS3. Caso queira, utilize pré-processadores (Less, Stylus ou SASS).
-4. Iremos avaliar a qualidade do seu código, mesmo incompleto e principalmente a sua semântica.
-
+1. Crie uma tela de login e cadastro com um validador de e-mail e senha. A senha deve ter pelo menos 8 caracteres, contendo letra maiúscula e minúscula, caracteres especiais e números.
+2. Crie uma tela principal, no estilo de um portal de notícias. A tela deve conter um menu horizontal, um rodapé, pelo menos uma imagem, um vídeo e também deve informar o e-mail inserido na tela de login.
+3. Certifique-se de que o seu design seja responsivo, usando HTML5 e CSS3. Se desejar, você pode usar pré-processadores como Less, Stylus ou SASS.
+4. A qualidade do seu código será avaliada, mesmo que não esteja completo. O mais importante é que o código seja semanticamente correto e bem estruturado.
 
 ### O que esperamos:
 1. HTML5
 2. CSS3
 3. PHP
 4. MySQL
-4. Criar um passo a passo de como rodar sua aplicação.
+4. Um passo a passo de como rodar sua aplicação.
 
 ### Diferencial
 1. A página ser responsiva
