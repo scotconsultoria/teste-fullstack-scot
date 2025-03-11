@@ -25,6 +25,6 @@ Você precisa desenvolver um processo de autenticação completo, que inclui a c
 
 Ao terminar o teste, solicite um pull request. 
 
-Em caso de dúvidas, envie e-mail para mp@scotconsultoria.com.br
+Em caso de dúvidas, envie e-mail para at@scotconsultoria.com.br
 
 **Boa sorte!**
